@@ -3,7 +3,7 @@
     "app-name": "JetPlay",
     "app-version": 1,
     "def-apk-url": "http://localhost:8080/app/update.xml",
-    "version-code": "1.0.0",
+    "app-version-name": 1.0,
     "title": "Update available",
     "message": "Some bugs was fixed recently.\\nYou can click the button below apply patch",
     "build-types": {
