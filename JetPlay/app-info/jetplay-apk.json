@@ -1,0 +1,75 @@
+{
+  "app-update": {
+    "app-name": "JetPlay",
+    "app-version": 1,
+    "def-apk-url": "http://localhost:8080/app/update.xml",
+    "version-code": "1.0.0",
+    "title": "Update available",
+    "message": "Some bugs was fixed recently.\\nYou can click the button below apply patch",
+    "build-types": {
+      "ldpi": [
+        "https://play.jetelex.com/updates?c=armeabi&d=ldpi",
+        "https://play.jetelex.com/updates?c=armeabi-v7a&d=ldpi",
+        "https://play.jetelex.com/updates?c=arm64-v8a&d=ldpi",
+        "https://play.jetelex.com/updates?c=x86&d=ldpi",
+        "https://play.jetelex.com/updates?c=x86_64&d=ldpi",
+        "https://play.jetelex.com/updates?c=mips&d=ldpi",
+        "https://play.jetelex.com/updates?c=mips64&d=ldpi"
+      ],
+      "mdpi": [
+        "https://play.jetelex.com/updates?c=armeabi&d=mdpi",
+        "https://play.jetelex.com/updates?c=armeabi-v7a&d=mdpi",
+        "https://play.jetelex.com/updates?c=arm64-v8a&d=mdpi",
+        "https://play.jetelex.com/updates?c=x86&d=mdpi",
+        "https://play.jetelex.com/updates?c=x86_64&d=mdpi",
+        "https://play.jetelex.com/updates?c=mips&d=mdpi",
+        "https://play.jetelex.com/updates?c=mips64&d=mdpi"
+      ],
+      "hdpi": [
+        "https://play.jetelex.com/updates?c=armeabi&d=hdpi",
+        "https://play.jetelex.com/updates?c=armeabi-v7a&d=hdpi",
+        "https://play.jetelex.com/updates?c=arm64-v8a&d=hdpi",
+        "https://play.jetelex.com/updates?c=x86&d=hdpi",
+        "https://play.jetelex.com/updates?c=x86_64&d=hdpi",
+        "https://play.jetelex.com/updates?c=mips&d=hdpi",
+        "https://play.jetelex.com/updates?c=mips64&d=hdpi"
+      ],
+      "xhdpi": [
+        "https://play.jetelex.com/updates?c=armeabi&d=xhdpi",
+        "https://play.jetelex.com/updates?c=armeabi-v7a&d=xhdpi",
+        "https://play.jetelex.com/updates?c=arm64-v8a&d=xhdpi",
+        "https://play.jetelex.com/updates?c=x86&d=xhdpi",
+        "https://play.jetelex.com/updates?c=x86_64&d=xhdpi",
+        "https://play.jetelex.com/updates?c=mips&d=xhdpi",
+        "https://play.jetelex.com/updates?c=mips64&d=xhdpi"
+      ],
+      "xxhdpi": [
+        "https://play.jetelex.com/updates?c=armeabi&d=xxhdpi",
+        "https://play.jetelex.com/updates?c=armeabi-v7a&d=xxhdpi",
+        "https://play.jetelex.com/updates?c=arm64-v8a&d=xxhdpi",
+        "https://play.jetelex.com/updates?c=x86&d=xxhdpi",
+        "https://play.jetelex.com/updates?c=x86_64&d=xxhdpi",
+        "https://play.jetelex.com/updates?c=mips&d=xxhdpi",
+        "https://play.jetelex.com/updates?c=mips64&d=xxhdpi"
+      ],
+      "xxxhdpi": [
+        "https://play.jetelex.com/updates?c=armeabi&d=xxxhdpi",
+        "https://play.jetelex.com/updates?c=armeabi-v7a&d=xxxhdpi",
+        "https://play.jetelex.com/updates?c=arm64-v8a&d=xxxhdpi",
+        "https://play.jetelex.com/updates?c=x86&d=xxxhdpi",
+        "https://play.jetelex.com/updates?c=x86_64&d=xxxhdpi",
+        "https://play.jetelex.com/updates?c=mips&d=xxxhdpi",
+        "https://play.jetelex.com/updates?c=mips64&d=xxxhdpi"
+      ],
+      "tvdpi": [
+        "https://play.jetelex.com/updates?c=armeabi&d=tvdpi",
+        "https://play.jetelex.com/updates?c=armeabi-v7a&d=tvdpi",
+        "https://play.jetelex.com/updates?c=arm64-v8a&d=tvdpi",
+        "https://play.jetelex.com/updates?c=x86&d=tvdpi",
+        "https://play.jetelex.com/updates?c=x86_64&d=tvdpi",
+        "https://play.jetelex.com/updates?c=mips&d=tvdpi",
+        "https://play.jetelex.com/updates?c=mips64&d=tvdpi"
+      ]
+    }
+  }
+}
