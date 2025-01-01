@@ -71,5 +71,12 @@
         "https://play.jetelex.com/updates?c=mips64&d=tvdpi"
       ]
     }
+  },
+  "apk-packages": {
+    "ffmpeg-kit": [
+      "https://github.com/arthenica/ffmpeg-kit/releases/download/v6.0/ffmpeg-kit-full-gpl-6.0-2.aar"
+    ],
+    "media3": [
+    ]
   }
 }
