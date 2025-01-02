@@ -6,6 +6,7 @@
     "app-version-name": 1.0,
     "title": "Update available",
     "message": "Some bugs was fixed recently.\\nYou can click the button below apply patch",
+    "action": "Install",
     "build-types": {
       "ldpi": [
         "https://play.jetelex.com/updates?c=armeabi&d=ldpi",
