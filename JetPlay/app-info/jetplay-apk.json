@@ -5,7 +5,7 @@
     "def-apk-url": "http://localhost:8080/app/update.xml",
     "app-version-name": 1.1,
     "title": "Patch available",
-    "message": "Some bugs was fixed recently. \nYou can click the button below apply patch",
+    "message": "Some bugs was fixed recently. \nYou can click the button below to apply patch",
     "action": "Apply",
     "build-types": {
       "ldpi": [
