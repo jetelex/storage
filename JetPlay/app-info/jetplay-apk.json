@@ -1,7 +1,7 @@
 {
   "app-update": {
     "app-name": "JetPlay",
-    "app-hybrid": "http://192.168.43.115:3000/app-logic",
+    "app-hybrid": "http://192.168.43.115:3000/",
     "app-version": 1,
     "def-apk-url": "http://localhost:8080/app/update.xml",
     "app-version-name": 1.0,
