@@ -2,6 +2,7 @@
   "app-update": {
     "app-name": "JetPlay",
     "canShowGoogleAds": true,
+    "googleRwdAdUnit": "ca-app-pub-5302356269894789/7972368440",
     "web-home-url": "http://192.168.43.180:5000/",
     "web-explore-url": "http://192.168.43.180:5000/explore",
     "app-hybrid": "http://192.168.43.180:3000/",
