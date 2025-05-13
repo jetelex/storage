@@ -6,6 +6,12 @@
     "app-hybrid": "http://192.168.43.180:3000/",
     "app-version": 1,
     "def-apk-url": "http://localhost:8080/app/update.xml",
+    "resources": {
+      "images": [
+        "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/google-color-svgrepo-com.svg",
+        "https://raw.githubusercontent.com/chisomemmanuel/Jetplay-Storage/refs/heads/master/shooting-video-game.gif"
+      ]
+    },
     "app-version-name": 1.0,
     "title": "Patch available",
     "message": "Some bugs was fixed recently. \nYou can click the button below to apply patch",
