@@ -19,7 +19,8 @@
               "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_youtube_logo.svg",
               "desc": "Download & stream YouTube related videos, music, movies, thumbnails & subtitles in different resolutions.",
               "url": "https://www.youtube.com",
-              "script": ""
+              "script": "",
+              "type": 0
             }
           },
           {
@@ -28,7 +29,8 @@
               "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_instagram_logo.svg",
               "desc": "You can download & stream Instagram related videos, music, thumbnails & reels into your mobile device.",
               "url": "https://www.instagram.com",
-              "script": ""
+              "script": "",
+              "type": 0
             }
           },
           {
@@ -37,7 +39,8 @@
               "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_tiktok_logo.svg",
               "desc": "Download, stream & convert TikTok videos into music, thumbnails & subtitles into your mobile device.",
               "url": "https://www.tiktok.com",
-              "script": ""
+              "script": "",
+              "type": 0
             }
           },
           {
@@ -46,7 +49,8 @@
               "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_facebook_logo.svg",
               "desc": "Download & stream Facebook related contents like videos, music, movies, thumbnails & shorts here.",
               "url": "https://www.facebook.com",
-              "script": ""
+              "script": "",
+              "type": 0
             }
           },
           {
@@ -55,7 +59,8 @@
               "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_whatsapp_logo.svg",
               "desc": "Download, stream & check Whatsapp profile pictures, statuses like videos, images & audios.",
               "url": "https://www.whatsapp.com",
-              "script": ""
+              "script": "",
+              "type": 0
             }
           },
           {
@@ -64,7 +69,8 @@
               "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_telegram_logo.svg",
               "desc": "Download, stream & check Telegram profile pictures, statuses like videos, images & audios.",
               "url": "https://www.telegram.com",
-              "script": ""
+              "script": "",
+              "type": 0
             }
           },
           {
@@ -73,7 +79,8 @@
               "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_x_twitter_logo.svg",
               "desc": "Download & stream X-related videos, music & pictures from Twitter links and URLs.",
               "url": "https://www.x.com",
-              "script": ""
+              "script": "",
+              "type": 0
             }
           }
         ]
