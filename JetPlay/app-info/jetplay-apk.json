@@ -13,54 +13,67 @@
           ]
         },
         "rcv": [
-          "YOUTUBE" : {
-            "title" : "YOUTUBE",
-            "imageUrl" : "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_youtube_logo.svg",
-            "desc": "Download & stream YouTube related videos, music, movies, thumbnails & subtitles in different resolutions."
+          {
+            "YOUTUBE": {
+              "title": "YOUTUBE",
+              "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_youtube_logo.svg",
+              "desc": "Download & stream YouTube related videos, music, movies, thumbnails & subtitles in different resolutions."
+            }
           },
-          "INSTAGRAM" : {
-            "title" : "INSTAGRAM",
-            "imageUrl" : "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_instagram_logo.svg",
-            "desc": "You can download & stream Instagram related videos, music, thumbnails & reels into your mobile device"
+          {
+            "INSTAGRAM": {
+              "title": "INSTAGRAM",
+              "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_instagram_logo.svg",
+              "desc": "You can download & stream Instagram related videos, music, thumbnails & reels into your mobile device."
+            }
           },
-          "TIKTOK" : {
-            "title" : "TIKTOK",
-            "imageUrl" : "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_tiktok_logo.svg",
-            "desc": "Download, stream & convert TikTok videos into music, thumbnails & subtitles into your mobile device."
+          {
+            "TIKTOK": {
+              "title": "TIKTOK",
+              "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_tiktok_logo.svg",
+              "desc": "Download, stream & convert TikTok videos into music, thumbnails & subtitles into your mobile device."
+            }
           },
-          "FACEBOOK" : {
-            "title" : "FACEBOOK",
-            "imageUrl" : "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_facebook_logo.svg",
-            "desc": "Download & stream Facebook related contents like videos, music, movies, thumbnails & shorts here."
+          {
+            "FACEBOOK": {
+              "title": "FACEBOOK",
+              "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_facebook_logo.svg",
+              "desc": "Download & stream Facebook related contents like videos, music, movies, thumbnails & shorts here."
+            }
           },
-          "WHATSAPP" : {
-            "title" : "WHATSAPP",
-            "imageUrl" : "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_whatsapp_logo.svg",
-            "desc": "Download, stream & check Whatsapp profile pictures, statuses like videos, images & audios."
+          {
+            "WHATSAPP": {
+              "title": "WHATSAPP",
+              "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_whatsapp_logo.svg",
+              "desc": "Download, stream & check Whatsapp profile pictures, statuses like videos, images & audios."
+            }
           },
-          "TELEGRAM" : {
-            "title" : "TELEGRAM",
-            "imageUrl" : "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_telegram_logo.svg",
-            "desc": "Download, stream & check Telegram profile pictures, statuses like videos, images & audios."
+          {
+            "TELEGRAM": {
+              "title": "TELEGRAM",
+              "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_telegram_logo.svg",
+              "desc": "Download, stream & check Telegram profile pictures, statuses like videos, images & audios."
+            }
           },
-          "X" : {
-            "title" : "TWITTER",
-            "imageUrl" : "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_x_twitter_logo.svg",
-            "desc": "Download & stream X ~ related videos, music & pictures from Twitter links and urls."
+          {
+            "X": {
+              "title": "TWITTER",
+              "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_x_twitter_logo.svg",
+              "desc": "Download & stream X-related videos, music & pictures from Twitter links and URLs."
+            }
           }
-        ],
+        ]
       },
-      "explore": {
-      },
+      "explore": {}
     },
     "web-home-url": "http://192.168.43.180:5000/",
     "web-explore-url": "http://192.168.43.180:5000/explore",
     "app-hybrid": "http://192.168.43.180:3000/",
     "app-version": 1,
     "def-apk-url": "http://localhost:8080/app/update.xml",
-    "app-version-name": 1.0,
+    "app-version-name": "1.0",
     "title": "Patch available",
-    "message": "Some bugs was fixed recently. \nYou can click the button below to apply patch",
+    "message": "Some bugs was fixed recently.\nYou can click the button below to apply patch",
     "action": "Apply",
     "build-types": {
       "ldpi": [
@@ -132,7 +145,6 @@
     "ffmpeg-kit": [
       "https://github.com/arthenica/ffmpeg-kit/releases/download/v6.0/ffmpeg-kit-full-gpl-6.0-2.aar"
     ],
-    "media3": [
-    ]
+    "media3": []
   }
 }
