@@ -4,6 +4,7 @@
     "canShowGoogleAds": true,
     "googleRwdAdUnit": "ca-app-pub-5302356269894789/7972368440",
     "googleIntAdUnit": "ca-app-pub-5302356269894789/5434647088",
+    "googleBannerAdUnit": "ca-app-pub-5302356269894789/9180486833",
     "fragments": {
       "home": {
         "resources": {
