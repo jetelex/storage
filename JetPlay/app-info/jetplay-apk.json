@@ -22,7 +22,9 @@
               "script": "",
               "type": 0,
               "queryString": "",
-              "uri": "https://m.youtube.com"
+              "uri": "https://m.youtube.com",
+              "simpleName": "YouTube",
+              "titleColor": "#FF0F00"
           },
           {
               "title": "INSTAGRAM",
@@ -32,7 +34,9 @@
               "script": "",
               "type": 0,
               "queryString": "",
-              "uri": "https://www.instagram.com"
+              "uri": "https://www.instagram.com",
+              "simpleName": "Instagram",
+              "titleColor": "default"
           },
           {
               "title": "TIKTOK",
@@ -42,7 +46,9 @@
               "script": "",
               "type": 0,
               "queryString": "",
-              "uri": "https://www.tiktok.com"
+              "uri": "https://www.tiktok.com",
+              "simpleName": "YouTube",
+              "titleColor": "default"
           },
           {
               "title": "FACEBOOK",
@@ -52,7 +58,9 @@
               "script": "",
               "type": 0,
               "queryString": "",
-              "uri": "https://m.facebook.com"
+              "uri": "https://m.facebook.com",
+              "simpleName": "Facebook",
+              "titleColor": "default"
           },
           {
               "title": "WHATSAPP",
@@ -62,7 +70,9 @@
               "script": "",
               "type": 0,
               "queryString": "com.whatsapp%2FWhatsApp%2FMedia%2F.Statuses",
-              "uri": "content://com.android.externalstorage.documents/tree/primary%3AAndroid%2Fmedia%2Fcom.whatsapp%2FWhatsApp%2FMedia%2F.Statuses"
+              "uri": "content://com.android.externalstorage.documents/tree/primary%3AAndroid%2Fmedia%2Fcom.whatsapp%2FWhatsApp%2FMedia%2F.Statuses",
+              "simpleName": "WhatsApp",
+              "titleColor": "default"
           },
           {
               "title": "TELEGRAM",
@@ -72,7 +82,9 @@
               "script": "",
               "type": 0,
               "queryString": "",
-              "uri": "https://www.telegram.com"
+              "uri": "https://www.telegram.com",
+              "simpleName": "Telegram",
+              "titleColor": "default"
           },
           {
               "title": "TWITTER",
@@ -82,7 +94,9 @@
               "script": "",
               "type": 0,
               "queryString": "",
-              "uri": "https://www.x.com"
+              "uri": "https://www.x.com",
+              "simpleName": "Twitter",
+              "titleColor": "default"
           }
         ]
       },
