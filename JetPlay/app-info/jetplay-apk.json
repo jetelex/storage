@@ -18,9 +18,11 @@
               "title": "YOUTUBE",
               "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_youtube_logo.svg",
               "desc": "Download & stream YouTube related videos, music, movies, thumbnails & subtitles in different resolutions.",
-              "url": "https://www.youtube.com",
+              "url": "https://m.youtube.com",
               "script": "",
-              "type": 0
+              "type": 0,
+              "queryString": null,
+              "uri": "https://m.youtube.com"
           },
           {
               "title": "INSTAGRAM",
@@ -28,7 +30,9 @@
               "desc": "You can download & stream Instagram related videos, music, thumbnails & reels into your mobile device.",
               "url": "https://www.instagram.com",
               "script": "",
-              "type": 0
+              "type": 0,
+              "queryString": null,
+              "uri": "https://www.instagram.com"
           },
           {
               "title": "TIKTOK",
@@ -36,15 +40,19 @@
               "desc": "Download, stream & convert TikTok videos into music, thumbnails & subtitles into your mobile device.",
               "url": "https://www.tiktok.com",
               "script": "",
-              "type": 0
+              "type": 0,
+              "queryString": null,
+              "uri": "https://www.tiktok.com"
           },
           {
               "title": "FACEBOOK",
               "imageUrl": "https://github.com/chisomemmanuel/Jetplay-Storage/raw/refs/heads/master/ic_facebook_logo.svg",
               "desc": "Download & stream Facebook related contents like videos, music, movies, thumbnails & shorts here.",
-              "url": "https://www.facebook.com",
+              "url": "https://m.facebook.com",
               "script": "",
-              "type": 0
+              "type": 0,
+              "queryString": null,
+              "uri": "https://m.facebook.com"
           },
           {
               "title": "WHATSAPP",
@@ -52,7 +60,9 @@
               "desc": "Download, stream & check Whatsapp profile pictures, statuses like videos, images & audios.",
               "url": "https://www.whatsapp.com",
               "script": "",
-              "type": 0
+              "type": 0,
+              "queryString": "WhatsApp/Media/.Statuses",
+              "uri": "content://com.android.externalstorage.documents/tree/primary%3AAndroid%2Fmedia%2FWhatsApp%2FMedia%2F.Statuses"
           },
           {
               "title": "TELEGRAM",
@@ -60,7 +70,9 @@
               "desc": "Download, stream & check Telegram profile pictures, statuses like videos, images & audios.",
               "url": "https://www.telegram.com",
               "script": "",
-              "type": 0
+              "type": 0,
+              "queryString": null,
+              "uri": "https://www.telegram.com"
           },
           {
               "title": "TWITTER",
@@ -68,7 +80,9 @@
               "desc": "Download & stream X-related videos, music & pictures from Twitter links and URLs.",
               "url": "https://www.x.com",
               "script": "",
-              "type": 0
+              "type": 0,
+              "queryString": null,
+              "uri": "https://www.x.com"
           }
         ]
       },
