@@ -25,7 +25,7 @@
               "uri": "https://m.youtube.com",
               "simpleName": "YouTube",
               "titleColor": "#FF0F00",
-              "filePath": "",
+              "filePath": ""
           },
           {
               "title": "INSTAGRAM",
@@ -38,7 +38,7 @@
               "uri": "https://www.instagram.com",
               "simpleName": "Instagram",
               "titleColor": "default",
-              "filePath": "",
+              "filePath": ""
           },
           {
               "title": "TIKTOK",
@@ -51,7 +51,7 @@
               "uri": "https://www.tiktok.com",
               "simpleName": "YouTube",
               "titleColor": "default",
-              "filePath": "",
+              "filePath": ""
           },
           {
               "title": "FACEBOOK",
@@ -64,7 +64,7 @@
               "uri": "https://m.facebook.com",
               "simpleName": "Facebook",
               "titleColor": "default",
-              "filePath": "",
+              "filePath": ""
           },
           {
               "title": "WHATSAPP",
@@ -77,7 +77,7 @@
               "uri": "content://com.android.externalstorage.documents/tree/primary%3AAndroid%2Fmedia%2Fcom.whatsapp%2FWhatsApp%2FMedia%2F.Statuses",
               "simpleName": "WhatsApp",
               "titleColor": "#00FF3F",
-              "filePath": "/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/.Statuses",
+              "filePath": "/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/.Statuses"
           },
           {
               "title": "TELEGRAM",
@@ -90,7 +90,7 @@
               "uri": "https://www.telegram.com",
               "simpleName": "Telegram",
               "titleColor": "default",
-              "filePath": "",
+              "filePath": ""
           },
           {
               "title": "TWITTER",
@@ -103,7 +103,7 @@
               "uri": "https://www.x.com",
               "simpleName": "Twitter",
               "titleColor": "default",
-              "filePath": "",
+              "filePath": ""
           }
         ]
       },
