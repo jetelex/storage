@@ -81,7 +81,10 @@
               "filePaths": [
                   "/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/.Statuses",
                   "/storage/emulated/0/Android/media/com.whatsapp.w4b/WhatsApp Business/Media/.Statuses",
-                  "/storage/emulated/0/WhatsApp Business/Media/.Statuses"
+                  "/storage/emulated/0/WhatsApp Business/Media/.Statuses",
+                  "/storage/emulated/0/DualApp/WhatsApp/Media/.Statuses",
+                  "/storage/emulated/0/Android/data/com.huawei.appmarket.twinapp/WhatsApp/Media/.Statuses",
+                  "/storage/emulated/999/Android/media/com.whatsapp/WhatsApp/Media/.Statuses"
               ]
           },
           {
