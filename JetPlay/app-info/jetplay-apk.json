@@ -119,7 +119,7 @@
     },
     "web-home-url": "http://192.168.43.180:5000/",
     "web-explore-url": "http://192.168.43.180:5000/explore",
-    "app-hybrid": "https://techbrocode.github.io/JetPlay%20Browser/html/main.html",
+    "app-hybrid": "https://www.google.com",
     "app-version": 1,
     "def-apk-url": "http://localhost:8080/app/update.xml",
     "app-version-name": "1.0",
