@@ -5,6 +5,7 @@
     "googleRwdAdUnit": "ca-app-pub-5302356269894789/7972368440",
     "googleIntAdUnit": "ca-app-pub-5302356269894789/5434647088",
     "googleBannerAdUnit": "ca-app-pub-5302356269894789/9180486833",
+    "adsDisplay": "https://raw.githubusercontent.com/chisomemmanuel/Jetplay-Storage/refs/heads/master/shooting-video-game.gif",
     "dropAllTables": false,
     "fragments": {
       "home": {
