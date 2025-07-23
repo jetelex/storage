@@ -1,1 +1,37 @@
-
+{
+  "app-name": "JetPlay",
+  "version-code": 2,
+  "version-name": "0.0",
+  "app-in-google-review": false,
+  "app-modules": [
+    {
+      "module-name": "main-app",
+      "app-package-name": "com.jetelex.play.AppShell",
+      "entry-package-name": "com.jetelex.play.activities.MainActivity",
+      "publishing-timestamp": 1753285338790,
+      "file-name": "main-app.drm.crypt13",
+      "cpu-arch-type": [
+        {
+          "name": "armeabi-v7a",
+          "url": "github-url"
+        },
+        {
+          "name": "arm64-v8a",
+          "url": "github-url"
+        },
+        {
+          "name": "x86",
+          "url": "github-url"
+        },
+        {
+          "name": "x86_64",
+          "url": "github-url"
+        },
+        {
+          "name": null,
+          "url": "github-uni-url"
+        }
+      ]
+    }
+  ]
+}
