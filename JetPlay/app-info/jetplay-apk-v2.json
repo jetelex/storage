@@ -30,30 +30,71 @@
       ]
     }
   ],
+  "home-marquee": {
+    "text": null,
+    "bg": "#FF0F00",
+    "text-color": "#000000"
+  },
   "home-tabs": [
     {
       "title": "Home",
       "icon-type": 0,
       "icon": null,
-      "url": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json"
+      "endpoint": {
+        "current-method": 0,
+        "current-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
+        "current-body": null,
+        "current-headers": null,
+        "next-method": 0,
+        "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
+        "next-body": null,
+        "next-headers": null
+      }
     },
     {
       "title": "Shorts",
       "icon-type": 0,
       "icon": null,
-      "url": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/shorts-tabs/shorts-all-list.json"
+      "endpoint": {
+        "current-method": 0,
+        "current-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
+        "current-body": null,
+        "current-headers": null,
+        "next-method": 0,
+        "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
+        "next-body": null,
+        "next-headers": null
+      }
     },
     {
       "title": "Football",
       "icon-type": 0,
       "icon": null,
-      "url": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/shorts-tabs/shorts-all-list.json"
+      "endpoint": {
+        "current-method": 0,
+        "current-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
+        "current-body": null,
+        "current-headers": null,
+        "next-method": 0,
+        "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
+        "next-body": null,
+        "next-headers": null
+      }
     },
     {
       "title": "Entertainment",
       "icon-type": 0,
       "icon": null,
-      "url": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/shorts-tabs/shorts-all-list.json"
+      "endpoint": {
+        "current-method": 0,
+        "current-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
+        "current-body": null,
+        "current-headers": null,
+        "next-method": 0,
+        "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
+        "next-body": null,
+        "next-headers": null
+      }
     }
   ]
 }
