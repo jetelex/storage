@@ -31,9 +31,9 @@
     }
   ],
   "home-marquee": {
-    "text": null,
+    "text": "JetPlay v-2.0 wishes you a fun-filled eid-el-Kabir celebrations today! Please, do not forget to share JetPlay with your family, friends, siblings & well-wishers.",
     "bg": "#FF0F00",
-    "text-color": "#000000"
+    "color": "#FFFFFF"
   },
   "home-tabs": [
     {
