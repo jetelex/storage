@@ -41,11 +41,11 @@
       "icon-type": 0,
       "icon": null,
       "endpoint": {
-        "current-method": 0,
+        "current-method": "GET",
         "current-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
         "current-body": null,
         "current-headers": null,
-        "next-method": 0,
+        "next-method": "GET",
         "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
         "next-body": null,
         "next-headers": null
@@ -56,11 +56,11 @@
       "icon-type": 0,
       "icon": null,
       "endpoint": {
-        "current-method": 0,
+        "current-method": "GET",
         "current-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
         "current-body": null,
         "current-headers": null,
-        "next-method": 0,
+        "next-method": "GET",
         "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
         "next-body": null,
         "next-headers": null
@@ -71,11 +71,11 @@
       "icon-type": 0,
       "icon": null,
       "endpoint": {
-        "current-method": 0,
+        "current-method": "GET",
         "current-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
         "current-body": null,
         "current-headers": null,
-        "next-method": 0,
+        "next-method": "GET",
         "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
         "next-body": null,
         "next-headers": null
@@ -86,11 +86,11 @@
       "icon-type": 0,
       "icon": null,
       "endpoint": {
-        "current-method": 0,
+        "current-method": "GET",
         "current-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
         "current-body": null,
         "current-headers": null,
-        "next-method": 0,
+        "next-method": "GET",
         "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
         "next-body": null,
         "next-headers": null
