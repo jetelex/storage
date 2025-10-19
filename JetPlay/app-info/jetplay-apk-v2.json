@@ -5,31 +5,6 @@
   "app-in-google-review": true,
   "test-url": "https://techbrocode.github.io/JetPlayBrowser-v2/test/home/html/index.html",
   "prod-url": "https://techbrocode.github.io/JetPlayBrowser-v2/prod/home/html/index.html",
-  "apis": [
-    {
-      "type": "youtube",
-      "categories": [
-        {
-          "name": "long-form",
-          "endpoint": {
-            "body": null,
-            "headers": [
-              {
-                "name": "x-rapidapi-key",
-                "value": "322d40b3f3msh5833264c1bd23cdp142317jsn0e7653cdca63"
-              },
-              {
-                "name": "x-rapidapi-host",
-                "value": "yt-api.p.rapidapi.com"
-              }
-            ],
-            "method": "GET",
-            "url": "https://yt-api.p.rapidapi.com/trending?geo=NG&type=now&lang=en"
-          }
-        }
-      ]
-    }
-  ],
   "home-marquee": {
     "text": "JetPlay v-2.0 wishes you a fun-filled eid-el-Kabir celebrations today! Please, do not forget to share JetPlay with your family, friends, siblings & well-wishers.",
     "bg": "#FF0F00",
