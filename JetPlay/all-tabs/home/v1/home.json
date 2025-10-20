@@ -30,10 +30,64 @@
             "uri": "https://www.grammarly.com/a/grammarly-at-work"
           },
           "body": {
+            "title": null,
             "cmd": 3,
             "uri": "https://www.grammarly.com/a/grammarly-at-work"
-          },
-          "center": {}
+          }
+        }
+      }
+    },
+    {
+      "type": 1,
+      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "data": {
+        "meta": {
+          "title": "Shorts",
+          "iconType": 2,
+          "icon": "https://raw.githubusercontent.com/jetelex/storage/refs/heads/master/JetPlay/icons/svgs/yt-shorts.svg",
+          "list": {
+            "layout": 1,
+            "orientation": 1,
+            "col": 2,
+            "items": [
+              {
+                "title": "Wait for it\uD83E\uDD79",
+                "placeholder-type": 0,
+                "placeholder": "https://i.ytimg.com/vi/si3xCyvK_XY/oardefault.jpg",
+                "type": 0,
+                "cmd": 0,
+                "playback-type": 1,
+                "playback-uri": null
+              },
+              {
+                "title": "Connected Successfully",
+                "placeholder-type": 0,
+                "placeholder": "https://i.ytimg.com/vi/4ynYFPBs3wM/oardefault.jpg",
+                "type": 0,
+                "cmd": 0,
+                "playback-type": 1,
+                "playback-uri": null
+              },
+              {
+                "title": "Deadlift challenge in the street #gym #gymmotivation #shorts #fitness #goviral",
+                "placeholder-type": 0,
+                "placeholder": "https://i.ytimg.com/vi/xvbs12GYd3g/oardefault.jpg",
+                "type": 0,
+                "cmd": 0,
+                "playback-type": 1,
+                "playback-uri": null
+              },
+              {
+                "title": "Sabinus leave court",
+                "placeholder-type": 0,
+                "placeholder": "https://i.ytimg.com/vi/si3xCyvK_XY/oardefault.jpg",
+                "type": 0,
+                "cmd": 0,
+                "playback-type": 1,
+                "playback-uri": null
+              }
+            ]
+          }
         }
       }
     }
