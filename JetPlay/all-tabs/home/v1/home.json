@@ -55,40 +55,36 @@
                 "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
                 "placeholder-type": 0,
                 "placeholder": "https://i.ytimg.com/vi/si3xCyvK_XY/oardefault.jpg",
-                "type": 0,
-                "cmd": 0,
                 "playback-type": 1,
-                "playback-uri": null
+                "playback-uri": null,
+                "type": 0
               },
               {
                 "title": "Connected Successfully",
                 "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
                 "placeholder-type": 0,
                 "placeholder": "https://i.ytimg.com/vi/4ynYFPBs3wM/oardefault.jpg",
-                "type": 0,
-                "cmd": 0,
                 "playback-type": 1,
-                "playback-uri": null
+                "playback-uri": null,
+                "type": 0
               },
               {
                 "title": "Deadlift challenge in the street #gym #gymmotivation #shorts #fitness #goviral",
                 "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
                 "placeholder-type": 0,
                 "placeholder": "https://i.ytimg.com/vi/xvbs12GYd3g/oardefault.jpg",
-                "type": 0,
-                "cmd": 0,
                 "playback-type": 1,
-                "playback-uri": null
+                "playback-uri": null,
+                "type": 0
               },
               {
                 "title": "Sabinus leave court",
                 "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
                 "placeholder-type": 0,
                 "placeholder": "https://i.ytimg.com/vi/si3xCyvK_XY/oardefault.jpg",
-                "type": 0,
-                "cmd": 0,
                 "playback-type": 1,
-                "playback-uri": null
+                "playback-uri": null,
+                "type": 0
               }
             ]
           }
