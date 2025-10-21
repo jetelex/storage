@@ -57,7 +57,17 @@
                 "placeholder": "https://i.ytimg.com/vi/si3xCyvK_XY/oardefault.jpg",
                 "playback-type": 1,
                 "playback-uri": null,
-                "type": 2
+                "type": 2,
+                "channel": {
+                  "name": "Skiny Comics",
+                  "icon-type": 0,
+                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                  "verified": false
+                },
+                "date-published": {
+                  "text": "3 years ago",
+                  "value": 1761087730475
+                }
               },
               {
                 "title": "Connected Successfully",
@@ -66,7 +76,17 @@
                 "placeholder": "https://i.ytimg.com/vi/4ynYFPBs3wM/oardefault.jpg",
                 "playback-type": 1,
                 "playback-uri": null,
-                "type": 2
+                "type": 2,
+                "channel": {
+                  "name": "Skiny Comics",
+                  "icon-type": 0,
+                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                  "verified": false
+                },
+                "date-published": {
+                  "text": "2 years ago",
+                  "value": 1761087783517
+                }
               },
               {
                 "title": "Deadlift challenge in the street #gym #gymmotivation #shorts #fitness #goviral",
@@ -75,7 +95,17 @@
                 "placeholder": "https://i.ytimg.com/vi/xvbs12GYd3g/oardefault.jpg",
                 "playback-type": 1,
                 "playback-uri": null,
-                "type": 2
+                "type": 2,
+                "channel": {
+                  "name": "Skiny Comics",
+                  "icon-type": 0,
+                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                  "verified": false
+                },
+                "date-published": {
+                  "text": "1 hour ago",
+                  "value": 1761087798954
+                }
               },
               {
                 "title": "Sabinus leave court",
@@ -84,7 +114,17 @@
                 "placeholder": "https://i.ytimg.com/vi/94h1yct8hTM/oardefault.jpg",
                 "playback-type": 1,
                 "playback-uri": null,
-                "type": 2
+                "type": 2,
+                "channel": {
+                  "name": "Skiny Comics",
+                  "icon-type": 0,
+                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                  "verified": false
+                },
+                "date-published": {
+                  "text": "5 years ago",
+                  "value": 1761087813089
+                }
               }
             ]
           }
