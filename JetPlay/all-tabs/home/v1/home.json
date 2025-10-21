@@ -1,42 +1,6 @@
 {
   "contents": [
-    {
-      "type": 0,
-      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
-      "placeholder-type": 0,
-      "placeholder": "https://i.ytimg.com/vi/v3pdKP1qsyc/maxresdefault.jpg",
-      "icon-type": 0,
-      "icon": null,
-      "title": "Hit all the high notes with AI agents that elevate your work",
-      "data": {
-        "description": "AI agents that elevate your work",
-        "allow-playback": true,
-        "playback-type": 0,
-        "channel": {
-          "title": "Grammarly",
-          "icon-type": 0,
-          "icon": "https://i.ytimg.com/vi/v3pdKP1qsyc/maxresdefault.jpg",
-          "verified": false
-        },
-        "action": {
-          "left": {
-            "title": "Watch",
-            "cmd": 19,
-            "uri": "https://www.youtube.com/watch?v=v3pdKP1qsyc"
-          },
-          "right": {
-            "title": "Download",
-            "cmd": 3,
-            "uri": "https://www.grammarly.com/a/grammarly-at-work"
-          },
-          "body": {
-            "title": null,
-            "cmd": 3,
-            "uri": "https://www.grammarly.com/a/grammarly-at-work"
-          }
-        }
-      }
-    },
+    
     {
       "type": 1,
       "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
