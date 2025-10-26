@@ -260,8 +260,284 @@
       "date-published": {
         "original-text": "2025-10-25T12:10:00Z"
       },
-      "uploaded-by": "Sarah Haque",
-      "removable": false
+      "news": {
+        "uploaded-by": "Sarah Haque",
+        "removable": false
+      }
+    }
+  ],
+  "next": {
+    "method": "GET",
+    "url": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home-all-list.json",
+    "body": null,
+    "headers": null
+  }
+}{
+  "contents": [
+    {
+      "type": 0,
+      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "placeholder-type": 0,
+      "placeholder": "https://i.ytimg.com/vi/v3pdKP1qsyc/maxresdefault.jpg",
+      "icon-type": 0,
+      "icon": null,
+      "title": "Hit all the high notes with AI agents that elevate your work",
+      "data": {
+        "description": "AI agents that elevate your work",
+        "allow-playback": true,
+        "playback-type": 0,
+        "channel": {
+          "title": "Grammarly",
+          "icon-type": 0,
+          "icon": "https://i.ytimg.com/vi/v3pdKP1qsyc/maxresdefault.jpg",
+          "verified": false
+        },
+        "action": {
+          "left": {
+            "title": "Watch",
+            "cmd": 19,
+            "uri": "https://www.youtube.com/watch?v=v3pdKP1qsyc"
+          },
+          "right": {
+            "title": "Download",
+            "cmd": 3,
+            "uri": "https://www.grammarly.com/a/grammarly-at-work"
+          },
+          "body": {
+            "title": null,
+            "cmd": 3,
+            "uri": "https://www.grammarly.com/a/grammarly-at-work"
+          }
+        }
+      }
+    },
+    {
+      "type": 1,
+      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "data": {
+        "meta": {
+          "title": "Shorts",
+          "iconType": 2,
+          "icon": "https://raw.githubusercontent.com/jetelex/storage/refs/heads/master/JetPlay/icons/svgs/yt-shorts.svg",
+          "list": {
+            "layout": 1,
+            "orientation": 1,
+            "col": 2,
+            "items": [
+              {
+                "title": "Wait for it\uD83E\uDD79",
+                "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+                "placeholder-type": 0,
+                "placeholder": "https://i.ytimg.com/vi/si3xCyvK_XY/oardefault.jpg",
+                "playback-type": 1,
+                "playback-uri": null,
+                "type": 2,
+                "channel": {
+                  "title": "Skiny Comics",
+                  "icon-type": 0,
+                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                  "verified": false
+                },
+                "date-published": {
+                  "text": "3 years ago",
+                  "value": 1761087730475
+                }
+              },
+              {
+                "title": "Connected Successfully",
+                "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+                "placeholder-type": 0,
+                "placeholder": "https://i.ytimg.com/vi/4ynYFPBs3wM/oardefault.jpg",
+                "playback-type": 1,
+                "playback-uri": null,
+                "type": 2,
+                "channel": {
+                  "title": "Skiny Comics",
+                  "icon-type": 0,
+                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                  "verified": false
+                },
+                "date-published": {
+                  "text": "2 years ago",
+                  "value": 1761087783517
+                }
+              },
+              {
+                "title": "Deadlift challenge in the street #gym #gymmotivation #shorts #fitness #goviral",
+                "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+                "placeholder-type": 0,
+                "placeholder": "https://i.ytimg.com/vi/xvbs12GYd3g/oardefault.jpg",
+                "playback-type": 1,
+                "playback-uri": null,
+                "type": 2,
+                "channel": {
+                  "title": "Skiny Comics",
+                  "icon-type": 0,
+                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                  "verified": false
+                },
+                "date-published": {
+                  "text": "1 hour ago",
+                  "value": 1761087798954
+                }
+              },
+              {
+                "title": "Sabinus leave court",
+                "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+                "placeholder-type": 0,
+                "placeholder": "https://i.ytimg.com/vi/94h1yct8hTM/oardefault.jpg",
+                "playback-type": 1,
+                "playback-uri": null,
+                "type": 2,
+                "channel": {
+                  "title": "Skiny Comics",
+                  "icon-type": 0,
+                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                  "verified": false
+                },
+                "date-published": {
+                  "text": "5 years ago",
+                  "value": 1761087813089
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": 3,
+      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "placeholder-type": 0,
+      "placeholder": "https://i.ytimg.com/vi/kPxigYMNtag/maxresdefault.jpg",
+      "title": "Quillbot Premium for Free — 100% Legal & Working Method | Productive Tech",
+      "data": {
+        "allow-playback": true,
+        "playback-type": 0,
+        "duration": {
+          "text": "08:53",
+          "value": 73198737
+        },
+        "channel": {
+          "title": "Productive Tech   ™",
+          "icon-type": 0,
+          "icon": "https://yt3.ggpht.com/Yy9Xs3KdLBg1L9JcJm7NpfN-ZqTnKpjhwOyeodcdOkj3ceYBEQk_9Tue1EprZdPAin453aBjNA=s2160-c-k-c0x00ffffff-no-rj",
+          "verified": true
+        },
+        "action": {
+          "body": {
+            "cmd": 19,
+            "uri": "https://m.youtube.com/watch?v=kPxigYMNtag"
+          }
+        }
+      },
+      "date-published": {
+        "original-text": "2025-09-21T10:16:54-07:00",
+        "text": null,
+        "value": 0
+      }
+    },
+    {
+      "type": 4,
+      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "placeholder-type": 0,
+      "placeholder": "https://i.ytimg.com/vi/QOu95a9BrPw/maxresdefault.jpg",
+      "icon-type": 0,
+      "icon": null,
+      "title": "KUNG FU PANDA 5: NEXT GENERATION WARRIORS (2027) First Look Trailer | Jackie Chan | Concept Trailer",
+      "data": {
+        "description": "KUNG FU PANDA 5: NEXT GENERATION WARRIORS (2027) First Look Trailer | Jackie Chan | Concept Trailer",
+        "allow-playback": true,
+        "playback-type": 4,
+        "channel": {
+          "title": "Kide Bway Mnyama",
+          "icon-type": 0,
+          "icon": "https://yt3.ggpht.com/iSbjl-lS_I5_arz9vLC0kwsFsORlJgQ336fXZoXTGooUpstKoWNBGYbNBrRd_UKsEVKOzQHqIYw=s2160-c-k-c0x00ffffff-no-rj",
+          "verified": false
+        }
+      }
+    },
+    {
+      "type": 5,
+      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "placeholder-type": 0,
+      "placeholder": "https://i.ytimg.com/vi/fqrgFJcqTp0/maxresdefault.jpg",
+      "icon-type": 0,
+      "icon": null,
+      "title": "INSIDE MUTTON BIRYANI | Full Goat Mutton Cooking with Stuffed Biryani | Mutton Inside Biryani Recipe",
+      "data": {
+        "description": "INSIDE MUTTON BIRYANI | Full Goat Mutton Cooking with Stuffed Biryani | Mutton Inside Biryani Recipe",
+        "allow-playback": true,
+        "playback-type": 4,
+        "channel": {
+          "title": "Village Cooking Channel",
+          "icon-type": 0,
+          "icon": "https://yt3.ggpht.com/66OTTHSdZwqnz75I-z_sCFmf-EKQ9q4_OZsluCDm3KqPrcauc16Si1gGQuUgqe82Pi05Y2vnpw=s2160-c-k-c0x00ffffff-no-rj",
+          "verified": false
+        }
+      }
+    },
+    {
+      "type": 6,
+      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "placeholder-type": 0,
+      "placeholder": "https://i.ytimg.com/vi_webp/FOuLTTwSo24/sddefault.webp",
+      "title": "GRAMMARLY PREMIUM - ACT BEFORE IT'S TOO LATE | PRODUCTIVE TECH",
+      "data": {
+        "allow-playback": true,
+        "playback-type": 0,
+        "duration": {
+          "text": "03:54",
+          "value": 73198737
+        },
+        "isNew": true,
+        "channel": {
+          "title": "Productive Tech   ™",
+          "icon-type": 0,
+          "icon": "https://yt3.ggpht.com/Yy9Xs3KdLBg1L9JcJm7NpfN-ZqTnKpjhwOyeodcdOkj3ceYBEQk_9Tue1EprZdPAin453aBjNA=s2160-c-k-c0x00ffffff-no-rj",
+          "verified": true
+        },
+        "action": {
+          "body": {
+            "cmd": 19,
+            "uri": "https://m.youtube.com/watch?v=FOuLTTwSo24"
+          }
+        }
+      },
+      "date-published": {
+        "original-text": "2025-09-23T15:30:01-07:00",
+        "text": null,
+        "value": 0
+      }
+    },
+    {
+      "type": 7,
+      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "time-uploaded": 1761416739678,
+      "placeholder-type": 0,
+      "placeholder": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5QvylcUxastqDCzEao8WThwXWFfxqESSrY1kmskJTO5pJu4NODcwDVAPCdHOINkmPZzU&fopt=w2160-h1440-rw-dcMTCYbx0J",
+      "title": "Met police take over search for Epping sex offender after London sighting – as it happened - The Guardian - 4 hours ago - By Sarah Haque",
+      "data": {
+        "channel": {
+          "title": "The Guardian",
+          "icon-type": 0,
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "verified": false
+        },
+        "action": {
+          "body": {
+            "cmd": 3,
+            "uri": "https://m.youtube.com/watch?v=FOuLTTwSo24"
+          }
+        }
+      },
+      "date-published": {
+        "original-text": "2025-10-25T12:10:00Z"
+      },
+      "news": {
+        "uploaded-by": "Sarah Haque",
+        "removable": false
+      }
     }
   ],
   "next": {
