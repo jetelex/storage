@@ -126,7 +126,8 @@
                   "value": 1761087813089
                 }
               }
-            ]
+            ],
+            "nestedScrolling": false
           }
         }
       }
