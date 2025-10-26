@@ -294,6 +294,134 @@
         "uploaded-by": "Méabh Mc Mahon",
         "removable": false
       }
+    },
+    {
+      "type": 1,
+      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "data": {
+        "meta": {
+          "title": "Latest News",
+          "iconType": 2,
+          "icon": "https://www.svgrepo.com/download/309795/news.svg",
+          "list": {
+            "layout": 0,
+            "orientation": 0,
+            "items": [
+              {
+                "title": "French police make first arrests in €88mn Louvre heist",
+                "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+                "placeholder-type": 0,
+                "placeholder": "https://images.ft.com/v3/image/raw/ftcms%3A2fc54e6f-f1ae-4da2-83a9-981950a241fa?source=next-article&fit=scale-down&quality=highest&width=700&dpr=2",
+                "playback-type": 1,
+                "playback-uri": null,
+                "type": 8,
+                "channel": {
+                  "title": "Financial Times",
+                  "icon-type": 0,
+                  "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "verified": false
+                },
+                "date-published": {
+                  "original-text": "2025-10-26T10:41:09Z"
+                },
+                "news": {
+                  "uploaded-by": "Ian Johnston",
+                  "removable": false
+                }
+              },
+              {
+                "title": "Protestors gather as police descend on Merseyside town",
+                "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+                "placeholder-type": 0,
+                "placeholder": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2XCjrHkgRwdA7nmo1UYKDeY2AH0RJbCq43EkDLvdw1tDLA2iE_2rQlZINlcFR8I3Jv5c&fopt=w2160-h1440-rw-dcAdCI8MQF",
+                "playback-type": 1,
+                "playback-uri": null,
+                "type": 8,
+                "channel": {
+                  "title": "Liverpool Echo",
+                  "icon-type": 0,
+                  "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.liverpoolecho.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "verified": false
+                },
+                "date-published": {
+                  "original-text": "2025-10-26T14:17:28Z"
+                },
+                "news": {
+                  "uploaded-by": "Jamie Greer and Ben Haslam",
+                  "removable": false
+                }
+              },
+              {
+                "title": "Epping migrant sex offender 'wasn’t trying to get away' as he was arrested in London park, eyewitness says",
+                "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+                "placeholder-type": 0,
+                "placeholder": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScBeMmMM08EbMexfrbVo8VLVOPALg6TJUhuPmDGDtbejmJsp_6CCnXJKkTxCg9apM4abE&fopt=w2160-h1440-rw-dcHcOKS0EF",
+                "playback-type": 1,
+                "playback-uri": null,
+                "type": 8,
+                "channel": {
+                  "title": "BBC",
+                  "icon-type": 0,
+                  "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "verified": false
+                },
+                "date-published": {
+                  "original-text": "2025-10-26T14:17:28Z"
+                },
+                "news": {
+                  "uploaded-by": "Tinshui Yeung",
+                  "removable": false
+                }
+              },
+              {
+                "title": "Vladimir Putin tests new 'invincible' nuclear-powered missile",
+                "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+                "placeholder-type": 0,
+                "placeholder": "https://e3.365dm.com/25/10/2048x1152/skynews-vladimir-putin-russia_7062379.jpg?20251026090100",
+                "playback-type": 1,
+                "playback-uri": null,
+                "type": 8,
+                "channel": {
+                  "title": "Sky News",
+                  "icon-type": 0,
+                  "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.sky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "verified": false
+                },
+                "date-published": {
+                  "original-text": "2025-10-26T14:57:59Z"
+                },
+                "news": {
+                  "removable": false
+                }
+              },
+              {
+                "title": "Peston: What Powell’s victory says about Starmer",
+                "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+                "placeholder-type": 0,
+                "placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgF1zQQwl6H6yneTS2qNcmTwPaBmRxP5Gpgkl57l-EO1FrZYvQUYU8vfosDyrMsqz--JE&fopt=w2160-h1440-rw-dchTCe1ZwpwcUC",
+                "playback-type": 1,
+                "playback-uri": null,
+                "type": 8,
+                "channel": {
+                  "title": "ITVX",
+                  "icon-type": 0,
+                  "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.itv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "verified": false
+                },
+                "date-published": {
+                  "original-text": "2025-10-25T10:56:02Z"
+                },
+                "news": {
+                  "uploaded-by": "Robert Peston",
+                  "removable": false
+                }
+              }
+            ],
+            "nestedScrolling": true,
+            "snapAllowed": true
+          }
+        }
+      }
     }
   ],
   "next": {
