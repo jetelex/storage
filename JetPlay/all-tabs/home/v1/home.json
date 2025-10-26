@@ -301,8 +301,8 @@
       "data": {
         "meta": {
           "title": "Latest News",
-          "iconType": 2,
-          "icon": "https://www.svgrepo.com/download/309795/news.svg",
+          "iconType": 4,
+          "icon": "R.drawable.outline_newspaper_24",
           "list": {
             "layout": 0,
             "orientation": 0,
