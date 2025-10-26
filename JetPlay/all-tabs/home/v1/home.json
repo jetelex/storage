@@ -302,7 +302,6 @@
         "meta": {
           "title": "Latest News",
           "iconType": 4,
-          "icon": "R.drawable.outline_newspaper_24",
           "list": {
             "layout": 0,
             "orientation": 0,
