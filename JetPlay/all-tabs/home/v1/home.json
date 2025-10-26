@@ -417,7 +417,7 @@
               }
             ],
             "nestedScrolling": true,
-            "snapAllowed": false
+            "snapAllowed": true
           }
         }
       }
