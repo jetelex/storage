@@ -264,6 +264,35 @@
         "uploaded-by": "Sarah Haque",
         "removable": false
       }
+    },
+    {
+      "type": 8,
+      "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "time-uploaded": 1761467822492,
+      "placeholder-type": 0,
+      "placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_STD9lbYI7euRUaD4j6XoyiPKRPXR2YKkrmzTP6pogm49CldCBJCeEBj74yd2ynV0DjI&fopt=w2160-h1440-rw-dcKRaA7ZUK",
+      "title": "Leftwing Catherine Connolly wins Ireland presidential election",
+      "data": {
+        "channel": {
+          "title": "Euronews.com",
+          "icon-type": 0,
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.euronews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "verified": false
+        },
+        "action": {
+          "body": {
+            "cmd": 3,
+            "uri": "https://m.youtube.com/watch?v=FOuLTTwSo24"
+          }
+        }
+      },
+      "date-published": {
+        "original-text": "2025-10-25T14:57:25Z"
+      },
+      "news": {
+        "uploaded-by": "Méabh Mc Mahon",
+        "removable": false
+      }
     }
   ],
   "next": {
