@@ -239,6 +239,7 @@
     {
       "type": 7,
       "uuid": "37867854602-cedfhkfjjifhgfk-7739o20",
+      "time-uploaded": 1761416739678,
       "placeholder-type": 0,
       "placeholder": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5QvylcUxastqDCzEao8WThwXWFfxqESSrY1kmskJTO5pJu4NODcwDVAPCdHOINkmPZzU&fopt=w2160-h1440-rw-dcMTCYbx0J",
       "title": "Met police take over search for Epping sex offender after London sighting – as it happened - The Guardian - 4 hours ago - By Sarah Haque",
@@ -258,6 +259,10 @@
       },
       "date-published": {
         "original-text": "2025-10-25T12:10:00Z"
+      },
+      "news": {
+        "uploaded-by": "Sarah Haque",
+        "removable": false
       }
     }
   ],
