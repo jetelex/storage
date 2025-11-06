@@ -417,11 +417,13 @@
                 "playback-type": 1,
                 "playback-uri": null,
                 "type": 8,
-                "channel": {
-                  "title": "ITVX",
-                  "icon-type": 0,
-                  "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.itv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                  "verified": false
+                "data": {
+                  "channel": {
+                    "title": "ITVX",
+                    "icon-type": 0,
+                    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.itv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "verified": false
+                  }
                 },
                 "date-published": {
                   "original-text": "2025-10-25T10:56:02Z"
