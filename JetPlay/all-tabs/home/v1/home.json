@@ -58,11 +58,13 @@
                 "playback-type": 1,
                 "playback-uri": null,
                 "type": 2,
-                "channel": {
-                  "title": "Skiny Comics",
-                  "icon-type": 0,
-                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
-                  "verified": false
+                "data": {
+                  "channel": {
+                    "title": "Skiny Comics",
+                    "icon-type": 0,
+                    "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                    "verified": false
+                  }
                 },
                 "date-published": {
                   "text": "3 years ago",
@@ -77,11 +79,13 @@
                 "playback-type": 1,
                 "playback-uri": null,
                 "type": 2,
-                "channel": {
-                  "title": "Skiny Comics",
-                  "icon-type": 0,
-                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
-                  "verified": false
+                "data": {
+                  "channel": {
+                    "title": "Skiny Comics",
+                    "icon-type": 0,
+                    "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                    "verified": false
+                  }
                 },
                 "date-published": {
                   "text": "2 years ago",
@@ -96,11 +100,13 @@
                 "playback-type": 1,
                 "playback-uri": null,
                 "type": 2,
-                "channel": {
-                  "title": "Skiny Comics",
-                  "icon-type": 0,
-                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
-                  "verified": false
+                "data": {
+                  "channel": {
+                    "title": "Skiny Comics",
+                    "icon-type": 0,
+                    "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                    "verified": false
+                  }
                 },
                 "date-published": {
                   "text": "1 hour ago",
@@ -115,11 +121,13 @@
                 "playback-type": 1,
                 "playback-uri": null,
                 "type": 2,
-                "channel": {
-                  "title": "Skiny Comics",
-                  "icon-type": 0,
-                  "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
-                  "verified": false
+                "data": {
+                  "channel": {
+                    "title": "Skiny Comics",
+                    "icon-type": 0,
+                    "icon": "https://yt3.ggpht.com/0PTq1RekgQRVOmx8vDeh2cl-mx0foEeIaIYRvsGWMdNqJXu8WRFkS2Q2obkIHplkPOCkPRR6=s2160-c-k-c0x00ffffff-no-rj",
+                    "verified": false
+                  }
                 },
                 "date-published": {
                   "text": "5 years ago",
@@ -314,11 +322,13 @@
                 "playback-type": 1,
                 "playback-uri": null,
                 "type": 8,
-                "channel": {
-                  "title": "Financial Times",
-                  "icon-type": 0,
-                  "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                  "verified": false
+                "data": {
+                  "channel": {
+                    "title": "Financial Times",
+                    "icon-type": 0,
+                    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "verified": false
+                  }
                 },
                 "date-published": {
                   "original-text": "2025-10-26T10:41:09Z"
@@ -336,11 +346,13 @@
                 "playback-type": 1,
                 "playback-uri": null,
                 "type": 8,
-                "channel": {
-                  "title": "Liverpool Echo",
-                  "icon-type": 0,
-                  "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.liverpoolecho.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                  "verified": false
+                "data": {
+                  "channel": {
+                    "title": "Liverpool Echo",
+                    "icon-type": 0,
+                    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.liverpoolecho.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "verified": false
+                  }
                 },
                 "date-published": {
                   "original-text": "2025-10-26T14:17:28Z"
@@ -358,11 +370,13 @@
                 "playback-type": 1,
                 "playback-uri": null,
                 "type": 8,
-                "channel": {
-                  "title": "BBC",
-                  "icon-type": 0,
-                  "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                  "verified": false
+                "data": {
+                  "channel": {
+                    "title": "BBC",
+                    "icon-type": 0,
+                    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "verified": false
+                  }
                 },
                 "date-published": {
                   "original-text": "2025-10-26T14:17:28Z"
@@ -380,11 +394,13 @@
                 "playback-type": 1,
                 "playback-uri": null,
                 "type": 8,
-                "channel": {
-                  "title": "Sky News",
-                  "icon-type": 0,
-                  "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.sky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-                  "verified": false
+                "data": {
+                  "channel": {
+                    "title": "Sky News",
+                    "icon-type": 0,
+                    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.sky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "verified": false
+                  }
                 },
                 "date-published": {
                   "original-text": "2025-10-26T14:57:59Z"
