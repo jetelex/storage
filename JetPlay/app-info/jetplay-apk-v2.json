@@ -12,12 +12,13 @@
   },
   "home-tabs": [
     {
-      "title": "For You",
+      "title": "Home",
       "icon-type": 0,
+      "page-type": 0,
       "icon": null,
       "endpoint": {
         "current-method": "GET",
-        "current-page": "http://192.168.43.180:42501/client/api/home-feed/all?startIndex=0&endIndex=9",
+        "current-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home/v1/home.json",
         "current-body": null,
         "current-headers": null,
         "next-method": "GET",
