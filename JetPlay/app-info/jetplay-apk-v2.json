@@ -18,11 +18,11 @@
       "icon": null,
       "endpoint": {
         "current-method": "GET",
-        "current-page": "https://techbrocode.github.io/JetPlayBrowser-v2/prod/home/html/hot.html",
+        "current-page": "https://www.google.com",
         "current-body": null,
         "current-headers": null,
         "next-method": "GET",
-        "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home/v1/home.json",
+        "next-page": "https://techbrocode.github.io/JetPlayBrowser-v2/prod/home/html/hot.html",
         "next-body": null,
         "next-headers": null
       }
