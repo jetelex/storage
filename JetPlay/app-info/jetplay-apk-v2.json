@@ -14,11 +14,11 @@
     {
       "title": "Hot 🔥",
       "icon-type": 0,
-      "page-type": 0,
+      "page-type": 1,
       "icon": null,
       "endpoint": {
         "current-method": "GET",
-        "current-page": "https://techbrocode.github.io/JetPlayBrowser-v2/prod/home/html/hot.html",
+        "current-page": "https://github.com/jetelex/storage/edit/master/JetPlay/all-tabs/home/v1/home.json",
         "current-body": null,
         "current-headers": null,
         "next-method": "GET",
