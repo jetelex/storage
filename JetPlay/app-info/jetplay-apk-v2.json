@@ -18,7 +18,7 @@
       "icon": null,
       "endpoint": {
         "current-method": "GET",
-        "current-page": "https://github.com/jetelex/storage/blob/master/JetPlay/all-tabs/home/v1/home.json",
+        "current-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home/v1/home.json",
         "current-body": null,
         "current-headers": null,
         "next-method": "GET",
