@@ -29,6 +29,23 @@
       "hasTextColors": true,
       "dayTextColor": "#3E52FF",
       "nightTextColor": "#FFFFFF"
+    },
+    {
+      "title": "Tests",
+      "icon-type": 0,
+      "page-type": 0,
+      "icon": null,
+      "endpoint": {
+        "current-method": "GET",
+        "current-page": "https://techbrocode.github.io/JetPlayBrowser-v2/prod/home/html/hot.html",
+        "current-body": null,
+        "current-headers": null,
+        "next-method": "GET",
+        "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home/v1/home.json",
+        "next-body": null,
+        "next-headers": null
+      },
+      "hasTextColors": false
     }
   ]
 }
