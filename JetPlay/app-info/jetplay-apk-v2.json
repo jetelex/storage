@@ -25,7 +25,8 @@
         "next-page": "https://github.com/jetelex/storage/raw/refs/heads/master/JetPlay/all-tabs/home/v1/home.json",
         "next-body": null,
         "next-headers": null
-      }
+      },
+      "hasTextColors": true
     }
   ]
 }
