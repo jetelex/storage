@@ -27,7 +27,8 @@
         "next-headers": null
       },
       "hasTextColors": true,
-      "dayTextColor": "#FFFFFF"
+      "dayTextColor": "#3E52FF",
+      "nightTextColor": "#FFFFFF"
     }
   ]
 }
