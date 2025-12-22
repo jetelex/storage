@@ -26,7 +26,8 @@
         "next-body": null,
         "next-headers": null
       },
-      "hasTextColors": true
+      "hasTextColors": true,
+      "dayTextColor": "#FFFFFF"
     }
   ]
 }
